@@ -40,4 +40,7 @@ public class User {
 			e.printStackTrace();
 		}
 	}
+	void doThings(){
+		System.out.println("Print");
+	}
 }
