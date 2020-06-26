@@ -42,5 +42,6 @@ public class User {
 	}
 	void doThings(){
 		System.out.println("Print");
+		System.out.println("Print");`
 	}
 }
